@@ -446,7 +446,7 @@ def localActivityTest(AllC,FrameSize,ShuffleRange,Iter=1000,alpha=0.01):
                     A.iloc[:offs] = AllC[rn].iloc[-offs:].values
                 else:
                     A = AllC[rn]
-            SAllC[rn]=A
+            SAllC[rn]=A.copy()
         AlternativeCoincs[i] = framedSum(SAllC,FrameSize) 
 
     # now evaluate distributions over complete excerpt
