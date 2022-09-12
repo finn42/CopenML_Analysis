@@ -1,0 +1,449 @@
+,Participant,Condition,Music,mQoM,aware_body,aware_movement,aware_others_moving,Motion_seen,Motion_seen_Max
+0,ADQ001,Hall,Beethoven,0.06931013816506719,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.12786686219486768,0.14361515277674927
+1,ADQ002,Hall,Beethoven,,Rarely,Not aware of movement,Not aware of others movement,0.08544601200614518,0.0932323286934819
+2,ADQ003,Hall,Beethoven,0.09441828532582225,Continuously,Yes and I moved a normal amount,Not aware of others movement,0.10451970428075724,0.13290784323685845
+3,ADQ004,Hall,Beethoven,0.10183246986744081,Not at all,Yes and I moved less than usual,Not aware of others movement,0.10174742925291169,0.10794718402948272
+4,ADQ005,Hall,Beethoven,0.07339625789281062,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.05647136870110804,0.05647136870110804
+5,ADQ006,Hall,Beethoven,0.10857148724819497,Continuously,Yes and I moved less than usual,Not aware of others movement,0.09452251147636377,0.11461521646840918
+6,ADQ007,Hall,Beethoven,0.07943627800972394,Continuously,Yes and I moved more than usual,Not aware of others movement,0.07306161022238246,0.08445802292833135
+7,ADQ008,Hall,Beethoven,0.08655114263128323,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.06818275545585882,0.07404132153310661
+8,ADQ009,Hall,Beethoven,0.07894363302573691,Continuously,Yes and I moved less than usual,Not aware of others movement,0.0853264806544706,0.10863526034833382
+9,ADQ010,Hall,Beethoven,0.13290784323685845,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.09400712395790507,0.10052608222909223
+10,ADQ011,Hall,Beethoven,0.08461819396212616,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.07407509931426892,0.0869590796424707
+11,ADQ012,Hall,Beethoven,0.09233331764433143,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.08298549520797602,0.08298549520797602
+12,ADQ013,Hall,Beethoven,0.04948269809888911,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.09488019696761787,0.14831013650978492
+13,ADQ014,Hall,Beethoven,0.08945680311290241,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.10241445163072481,0.14431919808948784
+14,ADQ015,Hall,Beethoven,0.0869590796424707,,Yes and I moved a normal amount,Yes and they moved a normal amount,0.08237675107514204,0.14831013650978492
+15,ADQ016,Hall,Beethoven,0.16564432256121892,Not at all,Not aware of movement,Not aware of others movement,0.06817637710923843,0.07988138551736881
+16,ADQ017,Hall,Beethoven,,Rarely,Yes and I moved less than usual,Yes and they moved less than usual,0.09233331764433143,0.09233331764433143
+17,ADQ018,Hall,Beethoven,0.10052608222909223,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.10466399050452142,0.13290784323685845
+18,ADQ019,Hall,Beethoven,0.10863526034833382,Not at all,Yes and I moved less than usual,Yes and they moved less than usual,0.08109482184513456,0.09502900950164858
+19,ADQ020,Hall,Beethoven,0.11438693256718936,Continuously,Yes and I moved less than usual,Yes and they moved a normal amount,,
+20,ADQ021,Hall,Beethoven,0.09664848634429031,Rarely,Yes and I moved a normal amount,Yes and they moved less than usual,0.0948508260412372,0.11461521646840918
+21,ADQ022,Hall,Beethoven,0.0756937854424317,Rarely,Yes and I moved less than usual,Not aware of others movement,0.07199823328981164,0.08461819396212616
+22,ADQ023,Hall,Beethoven,0.09648505149907136,Rarely,Not aware of movement,Not aware of others movement,0.10675832688626559,0.14361515277674927
+23,ADQ024,Hall,Beethoven,0.11211857161298606,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.06931013816506719,0.06931013816506719
+24,ADQ025,Hall,Beethoven,0.14831013650978492,Continuously,Yes and I moved a normal amount,Not aware of others movement,0.07636382595255417,0.0929061467588561
+25,ADQ026,Hall,Beethoven,0.07173899866041052,Intermittently,Not aware of movement,Not aware of others movement,0.09438968267974651,0.09438968267974651
+26,ADQ027,Hall,Beethoven,0.07426925955467616,Not at all,Not aware of movement,Not aware of others movement,0.08613094718954702,0.14831013650978492
+27,ADQ028,Hall,Beethoven,0.0699156661476783,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08555404623336743,0.0929061467588561
+28,ADQ029,Hall,Beethoven,0.07890540989838005,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.0714960525017845,0.09350940690467988
+29,ADQ030,Hall,Beethoven,0.1142230045600082,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.08038647059267046,0.09353452952866477
+30,ADQ031,Hall,Beethoven,0.07034129159368427,Rarely,Yes and I moved less than usual,Yes and they moved less than usual,0.11133004446707648,0.14361515277674927
+31,ADQ032,Hall,Beethoven,0.09350940690467988,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.08218892036279715,0.08547243082721424
+32,ADQ033,Hall,Beethoven,0.06790916446065186,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.08171879557956233,0.10836170890429142
+33,ADQ034,Hall,Beethoven,0.0929061467588561,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08647761161605777,0.14831013650978492
+34,ADQ035,Hall,Beethoven,0.10095856550568269,Intermittently,Not aware of movement,Not aware of others movement,0.10563185140634974,0.11461521646840918
+35,ADQ036,Hall,Beethoven,0.05937827261749712,Rarely,Yes and I moved a normal amount,Yes and they moved a normal amount,0.0789849721780267,0.0869590796424707
+36,ADQ037,Hall,Beethoven,0.10794718402948272,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.0925825150780241,0.10682782185802389
+37,ADQ038,Hall,Beethoven,0.07404132153310661,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.08655114263128323,0.08655114263128323
+38,ADQ039,Hall,Beethoven,0.08445802292833135,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.07597189024009218,0.09502900950164858
+39,ADQ040,Hall,Beethoven,0.06292177331586084,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.06837819339974938,0.06943617477090107
+40,ADQ041,Hall,Beethoven,0.09438968267974651,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,0.07173899866041052,0.07173899866041052
+41,ADQ042,Hall,Beethoven,0.09560394477408891,Intermittently,,,0.07838850757075004,0.08945680311290241
+42,ADQ043,Hall,Beethoven,0.09446272765514543,Rarely,Not aware of movement,Not aware of others movement,0.09441828532582225,0.09441828532582225
+43,ADQ044,Hall,Beethoven,0.06943617477090107,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.0730687862856609,0.08547243082721424
+44,ADQ045,Hall,Beethoven,0.06513253220021246,Intermittently,Yes and I moved more than usual,Not aware of others movement,0.07592235938428474,0.08445802292833135
+45,ADQ046,Hall,Beethoven,0.07759952353268443,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.06790916446065186,0.06790916446065186
+46,ADQ047,Hall,Beethoven,0.08887577636358422,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09998838964445267,0.13290784323685845
+47,ADQ048,Hall,Beethoven,0.06150141397802982,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.08051069071792419,0.09502900950164858
+48,ADQ049,Hall,Beethoven,0.14431919808948784,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.07838850757075004,0.08945680311290241
+49,ADQ050,Hall,Beethoven,0.08477236042977562,Intermittently,Not aware of movement,Not aware of others movement,0.07472051193838186,0.07472051193838186
+50,ADQ051,Hall,Beethoven,0.05647136870110804,Rarely,Yes and I moved less than usual,Not aware of others movement,0.10361914529138436,0.16564432256121892
+51,ADQ052,Hall,Beethoven,0.11461521646840918,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.10925574867479773,0.14361515277674927
+52,ADQ053,Hall,Beethoven,0.07988138551736881,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.11732377620307743,0.16564432256121892
+53,ADQ054,Hall,Beethoven,0.08547243082721424,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.08147279083779047,0.09350940690467988
+54,ADQ055,Hall,Beethoven,0.10836170890429142,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.06790916446065186,0.06790916446065186
+55,ADQ056,Hall,Beethoven,0.06723841165667616,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.1142230045600082,0.1142230045600082
+56,ADQ057,Hall,Beethoven,0.07081215471390759,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,0.06943617477090107,0.06943617477090107
+57,ADQ058,Hall,Beethoven,0.09467211898524203,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+58,ADQ059,Hall,Beethoven,0.08298549520797602,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09233331764433143,0.09233331764433143
+59,ADQ060,Hall,Beethoven,0.06232418937861104,Continuously,Yes and I moved a normal amount,Yes and they moved a normal amount,0.08655114263128323,0.08655114263128323
+60,ADQ061,Hall,Beethoven,0.06503623152601397,Rarely,Yes and I moved less than usual,Not aware of others movement,0.09093408341356261,0.10863526034833382
+61,ADQ062,Hall,Beethoven,0.06599237193419978,,,,0.07881442649067147,0.09502900950164858
+62,ADQ063,Hall,Beethoven,0.08206996381119519,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.06858252091964172,0.07943627800972394
+63,ADQ064,Hall,Beethoven,0.06732021202859767,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08835688347824582,0.14431919808948784
+64,ADQ065,Hall,Beethoven,0.07820194570787876,Not at all,Not aware of movement,Not aware of others movement,0.09447205772269324,0.14831013650978492
+65,ADQ066,Hall,Beethoven,0.14361515277674927,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.087687924431558,0.11461521646840918
+66,ADR067,Hall,Beethoven,0.09502900950164858,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.07876399513353723,0.10863526034833382
+67,ADR068,Hall,Beethoven,0.08475464132429648,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+68,ADR069,Hall,Beethoven,0.10287681840343013,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.09702538887470108,0.10794718402948272
+69,ADR070,Hall,Beethoven,0.06469626221609893,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.07096863409188808,0.08206996381119519
+70,ADR071,Hall,Beethoven,0.07472051193838186,Rarely,Not aware of movement,Not aware of others movement,0.08477236042977562,0.08477236042977562
+71,AEQ077,Hall,Beethoven,0.05919515430171112,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08072184699465831,0.09353452952866477
+72,AEQ078,Hall,Beethoven,0.09220835191312159,Continuously,Yes and I moved a normal amount,Not aware of others movement,0.10743656727651163,0.13290784323685845
+73,AEQ079,Hall,Beethoven,0.0662054270972753,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,0.07537568382562788,0.0932323286934819
+74,AEQ080,Hall,Beethoven,0.08624619940779135,Continuously,Yes and I moved a normal amount,Yes and they moved less than usual,0.07459817131240178,0.08918980130371656
+75,AEQ081,Hall,Beethoven,0.10682782185802389,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08806656232530385,0.10794718402948272
+76,AEQ082,Hall,Beethoven,0.07149407974385688,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.10588394143031225,0.10794718402948272
+77,AEQ083,Hall,Beethoven,0.07813334393238072,Continuously,Yes and I moved more than usual,Not aware of others movement,0.09657416920336852,0.10682782185802389
+78,AEQ084,Hall,Beethoven,0.06463051136719379,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.06545084465668712,0.0662054270972753
+79,AEQ085,Hall,Beethoven,0.11927676350050992,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+80,AEQ086,Hall,Beethoven,,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,0.08693360010846635,0.09467211898524203
+81,AEQ087,Hall,Beethoven,0.07323290647879141,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08691103360043331,0.10863526034833382
+82,AEQ088,Hall,Beethoven,0.09353452952866477,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08670907943085966,0.1142230045600082
+83,AEQ089,Hall,Beethoven,0.08918980130371656,Intermittently,Not aware of movement,Not aware of others movement,0.0713587840544497,0.08624619940779135
+84,AER090,Hall,Beethoven,0.0932323286934819,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,0.08459477349044868,0.10863526034833382
+85,BDQ092,Virtual,Beethoven,0.45988097090021857,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+86,BDQ093,Virtual,Beethoven,0.13437770307535032,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+87,BEQ095,Virtual,Beethoven,0.12201758590863243,Intermittently,Not aware of movement,Not aware of others movement,,
+88,BEQ096,Virtual,Beethoven,0.11872037507209068,Intermittently,Yes and I moved more than usual,Not aware of others movement,,
+89,BEQ097,Virtual,Beethoven,0.08859738773487162,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,,
+90,BEQ098,Virtual,Beethoven,0.09232829731787859,Continuously,Yes and I moved a normal amount,Not aware of others movement,,
+91,BEQ099,Virtual,Beethoven,0.08851434871626605,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+92,BEQ100,Virtual,Beethoven,0.1392355132838757,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+93,BEQ101,Virtual,Beethoven,0.11948428534667137,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+94,BEQ102,Virtual,Beethoven,0.12449381043632775,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+95,BEQ103,Virtual,Beethoven,0.570279299933297,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+96,BEQ104,Virtual,Beethoven,0.14280638482164032,Continuously,Yes and I moved less than usual,Not aware of others movement,,
+97,BEQ105,Virtual,Beethoven,,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+98,BEQ106,Virtual,Beethoven,0.16183601881838505,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,,
+99,BEQ107,Virtual,Beethoven,0.35397281521624874,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+100,BEQ108,Virtual,Beethoven,0.06158328891135055,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+101,BEQ109,Virtual,Beethoven,0.0716002243836982,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+102,BEQ110,Virtual,Beethoven,0.016154886473889525,Rarely,Not aware of movement,,,
+103,BEQ111,Virtual,Beethoven,0.11762736980796026,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+104,BEQ112,Virtual,Beethoven,0.10794416098257757,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+105,BEQ113,Virtual,Beethoven,0.0508487623284058,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+106,BEQ114,Virtual,Beethoven,0.20920341824709676,Intermittently,Not aware of movement,Not aware of others movement,,
+107,BEQ115,Virtual,Beethoven,0.10664256394207036,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+108,BEQ116,Virtual,Beethoven,0.16461005839962378,Continuously,Yes and I moved less than usual,Not aware of others movement,,
+109,BEQ117,Virtual,Beethoven,0.342741496741477,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+110,BEQ118,Virtual,Beethoven,0.18228281856977138,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+111,BEQ119,Virtual,Beethoven,,,,,,
+0,ADQ001,Hall,Schnittke,,Continuously,Yes and I moved a normal amount,Yes and they moved a normal amount,0.13329869245508644,0.1770649934683128
+1,ADQ002,Hall,Schnittke,,Not at all,Yes and I moved less than usual,Not aware of others movement,0.09046960925612159,0.10770360092534333
+2,ADQ003,Hall,Schnittke,0.09243047558732936,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.10917664737793129,0.1430052744686302
+3,ADQ004,Hall,Schnittke,0.1430052744686302,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.09903287714145032,0.12027783505955646
+4,ADQ005,Hall,Schnittke,0.08210477962432723,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.051291772994210616,0.051291772994210616
+5,ADQ006,Hall,Schnittke,0.11709093035119392,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.11795721320202292,0.13466988047974798
+6,ADQ007,Hall,Schnittke,0.07123562614440741,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.10230398159036456,0.1684421296394314
+7,ADQ008,Hall,Schnittke,0.08485135014975402,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.07553512922367889,0.08604646553084985
+8,ADQ009,Hall,Schnittke,0.08330939579705166,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.08456914174181451,0.10591546782101671
+9,ADQ010,Hall,Schnittke,0.10629783746217464,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.10726695022357129,0.13534033916127824
+10,ADQ011,Hall,Schnittke,0.08500244965983317,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,0.06354663376754956,0.07698565244385022
+11,ADQ012,Hall,Schnittke,0.09842789431965225,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.10770360092534333,0.10770360092534333
+12,ADQ013,Hall,Schnittke,0.05050134501113335,Rarely,Yes and I moved less than usual,Not aware of others movement,0.09481093986393302,0.1453000021083127
+13,ADQ014,Hall,Schnittke,0.0947210198933806,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.12216530640157384,0.16985047804785441
+14,ADQ015,Hall,Schnittke,0.07698565244385022,,Yes and I moved more than usual,Yes and they moved a normal amount,0.07943878300194693,0.1453000021083127
+15,ADQ016,Hall,Schnittke,0.16861351029712562,Not at all,Not aware of movement,Not aware of others movement,0.06635986415367297,0.08142795531313532
+16,ADQ017,Hall,Schnittke,,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.09842789431965225,0.09842789431965225
+17,ADQ018,Hall,Schnittke,0.10949638536682753,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.11114625913410096,0.13534033916127824
+18,ADQ019,Hall,Schnittke,0.10591546782101671,Rarely,Yes and I moved less than usual,Yes and they moved less than usual,0.08257795445908822,0.10229422192575843
+19,ADQ020,Hall,Schnittke,0.13524388656712666,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+20,ADQ021,Hall,Schnittke,0.1316840948354307,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.10971799515971849,0.13466988047974798
+21,ADQ022,Hall,Schnittke,0.07082052167419389,Not at all,Not aware of movement,Not aware of others movement,0.06717488176667973,0.08500244965983317
+22,ADQ023,Hall,Schnittke,0.13466988047974798,Rarely,Yes and I moved a normal amount,Yes and they moved a normal amount,0.12626297922957008,0.1770649934683128
+23,ADQ024,Hall,Schnittke,0.08953239144186008,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,,
+24,ADQ025,Hall,Schnittke,0.1453000021083127,Continuously,Yes and I moved more than usual,Not aware of others movement,0.07012437517896024,0.08944854028024819
+25,ADQ026,Hall,Schnittke,0.09735946510135621,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.0786281856574725,0.0786281856574725
+26,ADQ027,Hall,Schnittke,0.05703304707862787,Rarely,Not aware of movement,Yes and they moved a normal amount,0.10480619270298773,0.1684421296394314
+27,ADQ028,Hall,Schnittke,0.07554278349977846,Rarely,Yes and I moved less than usual,Not aware of others movement,0.08305091568059492,0.08944854028024819
+28,ADQ029,Hall,Schnittke,0.08030481382262751,Intermittently,Yes and I moved more than usual,Not aware of others movement,0.07417474781500004,0.09784815061886673
+29,ADQ030,Hall,Schnittke,0.12340982399677197,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.07356403928010849,0.077626833176397
+30,ADQ031,Hall,Schnittke,0.08798189006034444,Rarely,Yes and I moved less than usual,Yes and they moved more than usual,0.14012747478367135,0.1770649934683128
+31,ADQ032,Hall,Schnittke,0.09784815061886673,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.07892469155701766,0.08030481382262751
+32,ADQ033,Hall,Schnittke,0.0672631797004999,Rarely,Yes and I moved less than usual,Yes and they moved less than usual,0.08882784814918848,0.09727452625047847
+33,ADQ034,Hall,Schnittke,0.07665329108094163,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.09019816772486818,0.1453000021083127
+34,ADQ035,Hall,Schnittke,0.11351831511278217,Rarely,Not aware of movement,Yes and they moved a normal amount,0.12458854113399961,0.1316840948354307
+35,ADQ036,Hall,Schnittke,0.049347313873526276,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.09449727591234322,0.1684421296394314
+36,ADQ037,Hall,Schnittke,0.08439032077746512,Intermittently,Yes and I moved a normal amount,,0.09996852534232771,0.1430052744686302
+37,ADQ038,Hall,Schnittke,0.08604646553084985,Rarely,Not aware of movement,Not aware of others movement,0.08485135014975402,0.08485135014975402
+38,ADQ039,Hall,Schnittke,0.13439343576987273,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.07455115018168491,0.10229422192575843
+39,ADQ040,Hall,Schnittke,0.07608090164672675,Intermittently,Yes and I moved more than usual,Not aware of others movement,0.06507142780747224,0.06507142780747224
+40,ADQ041,Hall,Schnittke,0.0786281856574725,Rarely,Yes and I moved less than usual,Not aware of others movement,0.09735946510135621,0.09735946510135621
+41,ADQ042,Hall,Schnittke,0.07448013475529328,Not at all,Not aware of movement,Not aware of others movement,0.0947210198933806,0.0947210198933806
+42,ADQ043,Hall,Schnittke,0.09560287680207025,Rarely,Not aware of movement,Not aware of others movement,0.09243047558732936,0.09243047558732936
+43,ADQ044,Hall,Schnittke,0.06507142780747224,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.07988265200824841,0.08602248508661071
+44,ADQ045,Hall,Schnittke,,Intermittently,Not aware of movement,Yes and they moved more than usual,0.09609031050117314,0.1684421296394314
+45,ADQ046,Hall,Schnittke,0.0803811700478985,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.0672631797004999,0.0672631797004999
+46,ADQ047,Hall,Schnittke,0.09180060077885002,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.10499859857814901,0.13534033916127824
+47,ADQ048,Hall,Schnittke,0.07749237428339875,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.0849679637518522,0.10229422192575843
+48,ADQ049,Hall,Schnittke,0.16985047804785441,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.0947210198933806,0.0947210198933806
+49,ADQ050,Hall,Schnittke,0.08474081538014253,Not at all,Not aware of movement,Not aware of others movement,0.0748087815051989,0.0748087815051989
+50,ADQ051,Hall,Schnittke,0.051291772994210616,Rarely,Yes and I moved less than usual,Not aware of others movement,0.10558906240532512,0.16861351029712562
+51,ADQ052,Hall,Schnittke,0.11749298743256854,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.1348056428494935,0.1770649934683128
+52,ADQ053,Hall,Schnittke,0.08142795531313532,Not at all,Yes and I moved a normal amount,Not aware of others movement,0.10952181123800545,0.16861351029712562
+53,ADQ054,Hall,Schnittke,0.07754456929140781,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.08145978921316949,0.09784815061886673
+54,ADQ055,Hall,Schnittke,0.09727452625047847,Rarely,Yes and I moved less than usual,Not aware of others movement,0.0672631797004999,0.0672631797004999
+55,ADQ056,Hall,Schnittke,0.077626833176397,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.12340982399677197,0.12340982399677197
+56,ADQ057,Hall,Schnittke,0.08602248508661071,Continuously,Yes and I moved more than usual,Not aware of others movement,0.06507142780747224,0.06507142780747224
+57,ADQ058,Hall,Schnittke,0.11166939478146301,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+58,ADQ059,Hall,Schnittke,0.10770360092534333,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09842789431965225,0.09842789431965225
+59,ADQ060,Hall,Schnittke,0.06502379291650791,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08485135014975402,0.08485135014975402
+60,ADQ061,Hall,Schnittke,0.07153921279314024,Rarely,Not aware of movement,Not aware of others movement,0.08352523906133852,0.10591546782101671
+61,ADQ062,Hall,Schnittke,0.06764170557794595,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09280326976441444,0.13439343576987273
+62,ADQ063,Hall,Schnittke,0.1684421296394314,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.062004869111247043,0.07123562614440741
+63,ADQ064,Hall,Schnittke,,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09312677587087768,0.16985047804785441
+64,ADQ065,Hall,Schnittke,0.08944854028024819,Not at all,Not aware of movement,Yes and they moved less than usual,0.08630295524230218,0.1453000021083127
+65,ADQ066,Hall,Schnittke,0.1770649934683128,Rarely,Yes and I moved a normal amount,Yes and they moved a normal amount,0.11338158599088699,0.13466988047974798
+66,ADR067,Hall,Schnittke,0.10229422192575843,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.0893155987507789,0.13439343576987273
+67,ADR068,Hall,Schnittke,0.09883087996268043,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+68,ADR069,Hall,Schnittke,0.12027783505955646,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.09563178927910297,0.1430052744686302
+69,ADR070,Hall,Schnittke,0.07040348934842662,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.1056494264234052,0.1684421296394314
+70,ADR071,Hall,Schnittke,0.0748087815051989,Not at all,Not aware of movement,Not aware of others movement,0.08474081538014253,0.08474081538014253
+71,AEQ077,Hall,Schnittke,,Rarely,Yes and I moved less than usual,Not aware of others movement,0.06838221254215993,0.06950124538381997
+72,AEQ078,Hall,Schnittke,0.13534033916127824,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.10253160786928406,0.10949638536682753
+73,AEQ079,Hall,Schnittke,0.07661415736675056,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.08005420222183561,0.09461193147783048
+74,AEQ080,Hall,Schnittke,0.08557890083026282,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,0.0749682664618231,0.08755396752167391
+75,AEQ081,Hall,Schnittke,0.09328281309858097,Rarely,Yes and I moved less than usual,Not aware of others movement,0.08709976548871327,0.12027783505955646
+76,AEQ082,Hall,Schnittke,0.06184874877173559,Rarely,Yes and I moved less than usual,Not aware of others movement,0.09931698964520086,0.12027783505955646
+77,AEQ083,Hall,Schnittke,0.08755396752167391,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.1035152695880915,0.1316840948354307
+78,AEQ084,Hall,Schnittke,0.0718919922640337,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.0735088233575886,0.07661415736675056
+79,AEQ085,Hall,Schnittke,0.10519264904293375,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+80,AEQ086,Hall,Schnittke,,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,0.0958856818467639,0.11166939478146301
+81,AEQ087,Hall,Schnittke,0.06113501030166031,Rarely,Yes and I moved less than usual,Not aware of others movement,0.09076457458424175,0.10591546782101671
+82,AEQ088,Hall,Schnittke,0.06950124538381997,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.12340982399677197,0.12340982399677197
+83,AEQ089,Hall,Schnittke,0.0860590588695848,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.06843533691223672,0.08557890083026282
+84,AER090,Hall,Schnittke,0.09461193147783048,Intermittently,Yes and I moved a normal amount,Yes and they moved more than usual,0.08861300699493964,0.10591546782101671
+85,BDQ092,Virtual,Schnittke,0.24469976239185842,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+86,BDQ093,Virtual,Schnittke,0.3120174695796691,,,,,
+87,BEQ095,Virtual,Schnittke,0.09366713641425431,Intermittently,Yes and I moved more than usual,Not aware of others movement,,
+88,BEQ096,Virtual,Schnittke,0.09827781043093374,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+89,BEQ097,Virtual,Schnittke,0.0890948558272498,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,,
+90,BEQ098,Virtual,Schnittke,0.1400730284775448,Continuously,Yes and I moved a normal amount,Not aware of others movement,,
+91,BEQ099,Virtual,Schnittke,0.08875377233149549,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+92,BEQ100,Virtual,Schnittke,0.10252562082897963,Rarely,Not aware of movement,Not aware of others movement,,
+93,BEQ101,Virtual,Schnittke,0.10900190244272055,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+94,BEQ102,Virtual,Schnittke,0.09526966827876648,Rarely,Not aware of movement,Not aware of others movement,,
+95,BEQ103,Virtual,Schnittke,0.09014220479393566,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+96,BEQ104,Virtual,Schnittke,0.13749861188874415,Continuously,Yes and I moved less than usual,Not aware of others movement,,
+97,BEQ105,Virtual,Schnittke,,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+98,BEQ106,Virtual,Schnittke,0.24857625128609642,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,,
+99,BEQ107,Virtual,Schnittke,0.11144952493286671,Continuously,Yes and I moved a normal amount,Not aware of others movement,,
+100,BEQ108,Virtual,Schnittke,0.11482903921934126,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+101,BEQ109,Virtual,Schnittke,0.07561243325614457,Rarely,Not aware of movement,,,
+102,BEQ110,Virtual,Schnittke,0.11074328448580811,Rarely,Not aware of movement,,,
+103,BEQ111,Virtual,Schnittke,0.0834081243563371,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+104,BEQ112,Virtual,Schnittke,,,,,,
+105,BEQ113,Virtual,Schnittke,,,,,,
+106,BEQ114,Virtual,Schnittke,0.3246950407107933,Intermittently,Yes and I moved more than usual,Not aware of others movement,,
+107,BEQ115,Virtual,Schnittke,0.1600886848600743,,,,,
+108,BEQ116,Virtual,Schnittke,0.17485409777866512,,,,,
+109,BEQ117,Virtual,Schnittke,0.28841343682545206,,,,,
+110,BEQ118,Virtual,Schnittke,0.1686563857638625,,,,,
+111,BEQ119,Virtual,Schnittke,,,,,,
+0,ADQ001,Hall,Bach,0.05634408497743503,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.1292287225824749,0.14914906115779664
+1,ADQ002,Hall,Bach,0.13522696704083245,Intermittently,Not aware of movement,Not aware of others movement,0.08226459245718656,0.10042837752344742
+2,ADQ003,Hall,Bach,0.09590918295857281,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,0.0980793954112031,0.12416162501452181
+3,ADQ004,Hall,Bach,0.12416162501452181,Not at all,Not aware of movement,Not aware of others movement,0.10153001072176267,0.10862609281437903
+4,ADQ005,Hall,Bach,0.0762362182722547,Not at all,Yes and I moved less than usual,Not aware of others movement,0.04123690220795985,0.04123690220795985
+5,ADQ006,Hall,Bach,0.1032136012738838,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.08881341861894192,0.1020263796654502
+6,ADQ007,Hall,Bach,0.07280524436495708,Continuously,Yes and I moved more than usual,Not aware of others movement,0.13159041871193156,0.25070395118844313
+7,ADQ008,Hall,Bach,0.07511660701680728,Rarely,Yes and I moved less than usual,Yes and they moved a normal amount,0.08944039462296202,0.11143894619072418
+8,ADQ009,Hall,Bach,0.06381427794030356,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.08247059381281677,0.10042837752344742
+9,ADQ010,Hall,Bach,0.10379163973622857,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.09196226273784226,0.09590918295857281
+10,ADQ011,Hall,Bach,0.08849092837067002,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.07231837771978598,0.09109689981946406
+11,ADQ012,Hall,Bach,0.08670563651327867,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.09739284775481805,0.13522696704083245
+12,ADQ013,Hall,Bach,0.055330807077604516,Rarely,Not aware of movement,Not aware of others movement,0.08862411278316759,0.14113807810660545
+13,ADQ014,Hall,Bach,0.09942480631149365,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.09673250391165455,0.17127886515480642
+14,ADQ015,Hall,Bach,0.09109689981946406,,Yes and I moved a normal amount,Yes and they moved less than usual,0.08010639445037732,0.14113807810660545
+15,ADQ016,Hall,Bach,0.22769270897791405,Not at all,Not aware of movement,Not aware of others movement,0.0608559037036707,0.08047490519938155
+16,ADQ017,Hall,Bach,0.06980421999061194,Rarely,Not aware of movement,Not aware of others movement,0.11096630177705556,0.13522696704083245
+17,ADQ018,Hall,Bach,0.09385109013760577,Continuously,Yes and I moved a normal amount,Yes and they moved a normal amount,0.09495907742678839,0.10379163973622857
+18,ADQ019,Hall,Bach,0.0968594624744415,Rarely,Not aware of movement,Not aware of others movement,0.07450789692501657,0.10042837752344742
+19,ADQ020,Hall,Bach,0.17394445219861146,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+20,ADQ021,Hall,Bach,,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.08854826867040955,0.1032136012738838
+21,ADQ022,Hall,Bach,0.08260445236267329,Not at all,Not aware of movement,Not aware of others movement,0.06761257097883983,0.08849092837067002
+22,ADQ023,Hall,Bach,0.1020263796654502,Rarely,Yes and I moved less than usual,Not aware of others movement,0.10419413465576398,0.14914906115779664
+23,ADQ024,Hall,Bach,0.10930838400715316,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.05634408497743503,0.05634408497743503
+24,ADQ025,Hall,Bach,0.14113807810660545,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.07338062921912697,0.09109689981946406
+25,ADQ026,Hall,Bach,0.06539257796247347,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.056981277391104326,0.07175082721983589
+26,ADQ027,Hall,Bach,0.06883794510999698,Continuously,Yes and I moved a normal amount,Yes and they moved a normal amount,0.12204605820998518,0.25070395118844313
+27,ADQ028,Hall,Bach,0.07415703094570679,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.07825686486944236,0.07825686486944236
+28,ADQ029,Hall,Bach,0.08528482281770652,Not at all,Not aware of movement,Not aware of others movement,0.055330807077604516,0.055330807077604516
+29,ADQ030,Hall,Bach,0.09634395019874921,Not at all,Not aware of movement,Not aware of others movement,0.05832138991327099,0.06679990659737893
+30,ADQ031,Hall,Bach,0.07272390464248119,Not at all,Not aware of movement,Not aware of others movement,0.11812968069904355,0.14914906115779664
+31,ADQ032,Hall,Bach,,Not at all,Not aware of movement,Not aware of others movement,0.07688876454132626,0.08528482281770652
+32,ADQ033,Hall,Bach,0.06495943834397831,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.07856381860071693,0.09293118379175154
+33,ADQ034,Hall,Bach,0.07825686486944236,Not at all,Yes and I moved a normal amount,Not aware of others movement,0.09020863870997226,0.14113807810660545
+34,ADQ035,Hall,Bach,0.08725841204992967,Rarely,Yes and I moved more than usual,Not aware of others movement,0.09168997154889433,0.09168997154889433
+35,ADQ036,Hall,Bach,0.046734213587009625,Intermittently,Yes and I moved a normal amount,Yes and they moved more than usual,0.1242978401780807,0.25070395118844313
+36,ADQ037,Hall,Bach,0.10862609281437903,Intermittently,Yes and I moved a normal amount,,0.09045861985975971,0.12416162501452181
+37,ADQ038,Hall,Bach,0.06744184305519986,Not at all,Not aware of movement,Not aware of others movement,0.07511660701680728,0.07511660701680728
+38,ADQ039,Hall,Bach,,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.10165658636987263,0.25070395118844313
+39,ADQ040,Hall,Bach,0.05789252897639971,Continuously,Yes and I moved more than usual,Not aware of others movement,0.056473115551413905,0.06560233280020832
+40,ADQ041,Hall,Bach,0.07175082721983589,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.05380215276242312,0.06539257796247347
+41,ADQ042,Hall,Bach,0.07157474827753775,Not at all,Not aware of movement,Not aware of others movement,0.07338435230705657,0.09942480631149365
+42,ADQ043,Hall,Bach,0.07823780177671379,Rarely,Not aware of movement,Not aware of others movement,0.09590918295857281,0.09590918295857281
+43,ADQ044,Hall,Bach,0.06560233280020832,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.07330472731263332,0.09352894669655427
+44,ADQ045,Hall,Bach,0.25070395118844313,Not at all,Not aware of movement,Yes and they moved a normal amount,0.08711574200606007,0.16008556496227652
+45,ADQ046,Hall,Bach,0.06419645340968232,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.06495943834397831,0.06495943834397831
+46,ADQ047,Hall,Bach,0.08612651511734822,Rarely,Not aware of movement,Not aware of others movement,0.09350670450794718,0.10379163973622857
+47,ADQ048,Hall,Bach,0.0750163912287648,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.057967895592982946,0.06593405052848593
+48,ADQ049,Hall,Bach,0.17127886515480642,Intermittently,Yes and I moved more than usual,Yes and they moved a normal amount,0.07338435230705657,0.09942480631149365
+49,ADQ050,Hall,Bach,0.0924374205112018,Rarely,Yes and I moved more than usual,Not aware of others movement,0.069277680823833,0.069277680823833
+50,ADQ051,Hall,Bach,0.04123690220795985,Rarely,Yes and I moved less than usual,Not aware of others movement,0.11342146859271639,0.22769270897791405
+51,ADQ052,Hall,Bach,0.09168997154889433,Not at all,Not aware of movement,Not aware of others movement,0.11041186353676508,0.14914906115779664
+52,ADQ053,Hall,Bach,0.08047490519938155,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.1260803765560781,0.22769270897791405
+53,ADQ054,Hall,Bach,0.06849270626494598,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.06560233280020832,0.06560233280020832
+54,ADQ055,Hall,Bach,0.09293118379175154,Rarely,Yes and I moved less than usual,Not aware of others movement,0.06495943834397831,0.06495943834397831
+55,ADQ056,Hall,Bach,0.06679990659737893,Rarely,Yes and I moved less than usual,Not aware of others movement,0.09634395019874921,0.09634395019874921
+56,ADQ057,Hall,Bach,0.09352894669655427,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,0.06560233280020832,0.06560233280020832
+57,ADQ058,Hall,Bach,0.11490860306584834,Rarely,Yes and I moved more than usual,Not aware of others movement,0.042211727562372764,0.042211727562372764
+58,ADQ059,Hall,Bach,0.08714735623300972,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,0.11096630177705556,0.13522696704083245
+59,ADQ060,Hall,Bach,0.11143894619072418,,,,0.07511660701680728,0.07511660701680728
+60,ADQ061,Hall,Bach,0.07512540660726087,Not at all,Not aware of movement,Not aware of others movement,0.08204841725001329,0.0968594624744415
+61,ADQ062,Hall,Bach,0.05000174065747996,Continuously,Yes and I moved a normal amount,Not aware of others movement,0.06992946228908258,0.0750163912287648
+62,ADQ063,Hall,Bach,0.16008556496227652,Intermittently,Not aware of movement,Not aware of others movement,0.10071421069968774,0.25070395118844313
+63,ADQ064,Hall,Bach,0.047343898302619494,,,,0.09110035115956841,0.17127886515480642
+64,ADQ065,Hall,Bach,,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09069736377024314,0.14113807810660545
+65,ADQ066,Hall,Bach,0.14914906115779664,Rarely,Yes and I moved a normal amount,Yes and they moved a normal amount,0.0806960852085652,0.1020263796654502
+66,ADR067,Hall,Bach,0.06593405052848593,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.07227874159656783,0.0968594624744415
+67,ADR068,Hall,Bach,0.08765290984637694,Intermittently,Not aware of movement,Not aware of others movement,,
+68,ADR069,Hall,Bach,0.10005475639233619,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.09509738263036496,0.12416162501452181
+69,ADR070,Hall,Bach,0.0644896992480318,Intermittently,Yes and I moved a normal amount,Yes and they moved more than usual,0.11272136409503478,0.16008556496227652
+70,ADR071,Hall,Bach,0.069277680823833,Not at all,Not aware of movement,Not aware of others movement,0.0924374205112018,0.0924374205112018
+71,AEQ077,Hall,Bach,,Not at all,Not aware of movement,Not aware of others movement,0.05740115578657068,0.06495943834397831
+72,AEQ078,Hall,Bach,,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09458974833039419,0.10379163973622857
+73,AEQ079,Hall,Bach,0.06535716322779304,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.07624411823726092,0.10042837752344742
+74,AEQ080,Hall,Bach,0.06285388462307373,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.06750576918246702,0.0869030624976231
+75,AEQ081,Hall,Bach,0.08187618931467108,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.08585174412516056,0.10862609281437903
+76,AEQ082,Hall,Bach,0.06572562337788788,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.09685234617379541,0.10862609281437903
+77,AEQ083,Hall,Bach,0.07437734284181811,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.0723650369688724,0.08187618931467108
+78,AEQ084,Hall,Bach,,Rarely,Yes and I moved less than usual,Yes and they moved less than usual,0.06492343123791242,0.06535716322779304
+79,AEQ085,Hall,Bach,0.11140795192090971,Rarely,Not aware of movement,Not aware of others movement,,
+80,AEQ086,Hall,Bach,0.042211727562372764,Continuously,Yes and I moved less than usual,Yes and they moved less than usual,0.08401733608271923,0.11490860306584834
+81,AEQ087,Hall,Bach,0.06723737202558508,Not at all,Not aware of movement,Not aware of others movement,0.08739203291826486,0.13522696704083245
+82,AEQ088,Hall,Bach,0.049842873229163046,Rarely,Not aware of movement,Not aware of others movement,0.09634395019874921,0.09634395019874921
+83,AEQ089,Hall,Bach,0.0869030624976231,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.05204539341551679,0.06285388462307373
+84,AER090,Hall,Bach,0.10042837752344742,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09031446767084264,0.13522696704083245
+85,BDQ092,Virtual,Bach,0.3217373331626884,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+86,BDQ093,Virtual,Bach,,,,,,
+87,BEQ095,Virtual,Bach,0.0982415681360341,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+88,BEQ096,Virtual,Bach,0.09054845528748483,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+89,BEQ097,Virtual,Bach,0.0809991957065489,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,,
+90,BEQ098,Virtual,Bach,0.07656750115630609,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+91,BEQ099,Virtual,Bach,0.07255494312209926,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+92,BEQ100,Virtual,Bach,0.07588090441923576,Rarely,Not aware of movement,Not aware of others movement,,
+93,BEQ101,Virtual,Bach,0.10887583347645605,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+94,BEQ102,Virtual,Bach,0.11828953804807346,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+95,BEQ103,Virtual,Bach,0.05251106423342278,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+96,BEQ104,Virtual,Bach,0.0730543015767581,Continuously,Yes and I moved a normal amount,Not aware of others movement,,
+97,BEQ105,Virtual,Bach,0.08481098800246005,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+98,BEQ106,Virtual,Bach,0.2345941549417832,Rarely,Yes and I moved less than usual,Yes and they moved less than usual,,
+99,BEQ107,Virtual,Bach,0.07401537436100046,Intermittently,Yes and I moved more than usual,Not aware of others movement,,
+100,BEQ108,Virtual,Bach,0.11802735744817407,Rarely,Yes and I moved less than usual,Not aware of others movement,,
+101,BEQ109,Virtual,Bach,0.0722227130553117,Rarely,Not aware of movement,,,
+102,BEQ110,Virtual,Bach,0.009033374175975618,Rarely,Not aware of movement,,,
+103,BEQ111,Virtual,Bach,0.3415255221853363,Intermittently,Yes and I moved less than usual,Not aware of others movement,,
+104,BEQ112,Virtual,Bach,0.09282651922899808,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+105,BEQ113,Virtual,Bach,,,,,,
+106,BEQ114,Virtual,Bach,,,,,,
+107,BEQ115,Virtual,Bach,0.1619265075875024,Rarely,Not aware of movement,Not aware of others movement,,
+108,BEQ116,Virtual,Bach,,,,,,
+109,BEQ117,Virtual,Bach,,,,,,
+110,BEQ118,Virtual,Bach,,,,,,
+111,BEQ119,Virtual,Bach,0.04382136074801412,,,,,
+0,ADQ001,Hall,Folk,0.09335358045238651,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.1996394690295513,0.1996394690295513
+1,ADQ002,Hall,Folk,0.11209624780527683,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.09124720250934318,0.11398778397288807
+2,ADQ003,Hall,Folk,0.1255174919932455,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.15527490906027314,0.18717727627701586
+3,ADQ004,Hall,Folk,0.17892072211143098,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.11985552449645193,0.12887017067518533
+4,ADQ005,Hall,Folk,0.10611576129158444,Rarely,Yes and I moved a normal amount,Yes and they moved less than usual,0.09890938801710042,0.09890938801710042
+5,ADQ006,Hall,Folk,0.10703875627880684,Rarely,Yes and I moved more than usual,Yes and they moved more than usual,0.11401291879536468,0.14379372763937193
+6,ADQ007,Hall,Folk,0.12854400951038472,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.11232791642711135,0.16603683254978122
+7,ADQ008,Hall,Folk,0.11460464222683764,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.10745336181895307,0.10788366022836328
+8,ADQ009,Hall,Folk,0.08158932774600511,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.08893947470375224,0.11398778397288807
+9,ADQ010,Hall,Folk,0.18717727627701586,Intermittently,Yes and I moved a normal amount,Yes and they moved more than usual,0.1864592882790063,0.30676174797808003
+10,ADQ011,Hall,Folk,0.11313469327784058,Rarely,Not aware of movement,Yes and they moved less than usual,0.1102866902541274,0.16603683254978122
+11,ADQ012,Hall,Folk,0.10125045110731788,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09537436972455943,0.11209624780527683
+12,ADQ013,Hall,Folk,0.05943408107512314,Not at all,Not aware of movement,Not aware of others movement,0.12851984867589322,0.1925571486016776
+13,ADQ014,Hall,Folk,0.1877853523850691,Rarely,Yes and I moved a normal amount,Yes and they moved more than usual,0.1666243915036194,0.23971547436116794
+14,ADQ015,Hall,Folk,0.12983022566998914,,Yes and I moved more than usual,Yes and they moved more than usual,0.11790511508654551,0.1925571486016776
+15,ADQ016,Hall,Folk,0.24181519203157179,Continuously,Yes and I moved more than usual,Not aware of others movement,0.10363477019697204,0.10836015237684365
+16,ADQ017,Hall,Folk,0.07227592000394684,Intermittently,Not aware of movement,Yes and they moved less than usual,0.10667334945629736,0.11209624780527683
+17,ADQ018,Hall,Folk,0.30676174797808003,Intermittently,Yes and I moved less than usual,Yes and they moved a normal amount,0.15713795057135463,0.18717727627701586
+18,ADQ019,Hall,Folk,0.10990397772027088,Rarely,Not aware of movement,Not aware of others movement,0.08492458533364353,0.11398778397288807
+19,ADQ020,Hall,Folk,0.19255647245520713,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,,
+20,ADQ021,Hall,Folk,,Rarely,Yes and I moved more than usual,Yes and they moved a normal amount,0.12486919454620178,0.1838331112450256
+21,ADQ022,Hall,Folk,0.08691688286843419,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.08574875660307282,0.11313469327784058
+22,ADQ023,Hall,Folk,0.11533671025411733,Rarely,Yes and I moved a normal amount,Yes and they moved more than usual,0.11124693413692784,0.14379372763937193
+23,ADQ024,Hall,Folk,0.1996394690295513,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.09335358045238651,0.09335358045238651
+24,ADQ025,Hall,Folk,0.1925571486016776,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.11448260062459234,0.16603683254978122
+25,ADQ026,Hall,Folk,0.15942655012532927,Continuously,Yes and I moved a normal amount,Yes and they moved more than usual,0.13179362087320512,0.17673487936788548
+26,ADQ027,Hall,Folk,0.16603683254978122,Continuously,Yes and I moved a normal amount,Not aware of others movement,0.12671898517122449,0.1925571486016776
+27,ADQ028,Hall,Folk,0.1045341043757949,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.10262926320347587,0.10262926320347587
+28,ADQ029,Hall,Folk,0.11093854650724798,Rarely,Not aware of movement,Yes and they moved more than usual,0.05943408107512314,0.05943408107512314
+29,ADQ030,Hall,Folk,0.1227626705604221,Intermittently,Yes and I moved less than usual,Not aware of others movement,0.1028116964918953,0.12404938852587588
+30,ADQ031,Hall,Folk,0.08290831849260477,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.11118773326646209,0.11533671025411733
+31,ADQ032,Hall,Folk,,Rarely,Yes and I moved a normal amount,Yes and they moved a normal amount,0.1126420611603767,0.11434557581350542
+32,ADQ033,Hall,Folk,0.1179939572001098,Not at all,Yes and I moved more than usual,Yes and they moved more than usual,0.14808625287875335,0.2058877700704643
+33,ADQ034,Hall,Folk,0.10262926320347587,Rarely,Yes and I moved more than usual,Yes and they moved more than usual,0.11884177801753189,0.1925571486016776
+34,ADQ035,Hall,Folk,0.1163045433672843,Rarely,Yes and I moved a normal amount,Yes and they moved more than usual,0.14379372763937193,0.14379372763937193
+35,ADQ036,Hall,Folk,0.05836281992830506,Rarely,Yes and I moved more than usual,Yes and they moved more than usual,0.10885400961804885,0.12983022566998914
+36,ADQ037,Hall,Folk,0.12887017067518533,Intermittently,Yes and I moved more than usual,,0.12452181848478146,0.17892072211143098
+37,ADQ038,Hall,Folk,0.10702306340954286,Rarely,Yes and I moved more than usual,Yes and they moved more than usual,0.11460464222683764,0.11460464222683764
+38,ADQ039,Hall,Folk,0.14254168327582603,Rarely,Yes and I moved more than usual,Yes and they moved more than usual,0.11647867860146573,0.16603683254978122
+39,ADQ040,Hall,Folk,0.06885602147610054,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.10084489390289311,0.10664405939707555
+40,ADQ041,Hall,Folk,0.17673487936788548,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,0.12313945625192703,0.15942655012532927
+41,ADQ042,Hall,Folk,0.1535136407526147,Not at all,Yes and I moved a normal amount,Yes and they moved a normal amount,0.14721470589107233,0.1877853523850691
+42,ADQ043,Hall,Folk,0.12790301298695242,Rarely,Yes and I moved a normal amount,Yes and they moved a normal amount,0.1255174919932455,0.1255174919932455
+43,ADQ044,Hall,Folk,0.09504572840871067,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.11010044733880935,0.14709974472682208
+44,ADQ045,Hall,Folk,0.09518380994348362,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.11899995634049157,0.16603683254978122
+45,ADQ046,Hall,Folk,0.09028473568704239,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.1179939572001098,0.1179939572001098
+46,ADQ047,Hall,Folk,0.1270986248656934,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.18195416715629625,0.30676174797808003
+47,ADQ048,Hall,Folk,0.08193522650019334,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.0963143705018395,0.11244587465243351
+48,ADQ049,Hall,Folk,0.23971547436116794,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.14721470589107233,0.1877853523850691
+49,ADQ050,Hall,Folk,0.10551795181225769,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.0861522049817931,0.0861522049817931
+50,ADQ051,Hall,Folk,0.09890938801710042,Rarely,Not aware of movement,Not aware of others movement,0.1415653252084348,0.24181519203157179
+51,ADQ052,Hall,Folk,0.14379372763937193,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.11289333663340283,0.1163045433672843
+52,ADQ053,Hall,Folk,0.10836015237684365,Intermittently,Yes and I moved more than usual,Yes and they moved a normal amount,0.15923216945538293,0.24181519203157179
+53,ADQ054,Hall,Folk,0.11434557581350542,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.09504572840871067,0.09504572840871067
+54,ADQ055,Hall,Folk,0.2058877700704643,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.1179939572001098,0.1179939572001098
+55,ADQ056,Hall,Folk,0.12404938852587588,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.1227626705604221,0.1227626705604221
+56,ADQ057,Hall,Folk,0.14709974472682208,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.09504572840871067,0.09504572840871067
+57,ADQ058,Hall,Folk,0.1353991588839395,Intermittently,Yes and I moved more than usual,Not aware of others movement,0.08685236237852478,0.08685236237852478
+58,ADQ059,Hall,Folk,0.10175094136445463,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.10667334945629736,0.11209624780527683
+59,ADQ060,Hall,Folk,0.10788366022836328,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.11460464222683764,0.11460464222683764
+60,ADQ061,Hall,Folk,0.08189203249997046,Rarely,Not aware of movement,Not aware of others movement,0.0884374469091897,0.10990397772027088
+61,ADQ062,Hall,Folk,0.11244587465243351,Continuously,Yes and I moved more than usual,Not aware of others movement,0.11767415216926153,0.16603683254978122
+62,ADQ063,Hall,Folk,0.09951443643816078,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.1094775094307642,0.16603683254978122
+63,ADQ064,Hall,Folk,0.10664405939707555,,,,0.14186091401001508,0.23971547436116794
+64,ADQ065,Hall,Folk,,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.13911751488014373,0.1925571486016776
+65,ADQ066,Hall,Folk,,Rarely,Yes and I moved more than usual,Yes and they moved more than usual,0.10884808420962014,0.14379372763937193
+66,ADR067,Hall,Folk,0.0801828663512455,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.10275953564936646,0.14254168327582603
+67,ADR068,Hall,Folk,0.11623040813473033,Intermittently,Not aware of movement,Not aware of others movement,,
+68,ADR069,Hall,Folk,0.10517891082092495,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.134485049975331,0.17892072211143098
+69,ADR070,Hall,Folk,0.09926007522186635,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.08220482873095114,0.09951443643816078
+70,ADR071,Hall,Folk,0.0861522049817931,Intermittently,Not aware of movement,Not aware of others movement,0.10551795181225769,0.10551795181225769
+71,AEQ077,Hall,Folk,,Intermittently,Yes and I moved more than usual,Yes and they moved a normal amount,0.09978398082901226,0.1179939572001098
+72,AEQ078,Hall,Folk,,Continuously,Yes and I moved a normal amount,Yes and they moved more than usual,0.20701254970692975,0.30676174797808003
+73,AEQ079,Hall,Folk,0.0648952210237415,Intermittently,Yes and I moved less than usual,Yes and they moved less than usual,0.0982790623135865,0.11398778397288807
+74,AEQ080,Hall,Folk,0.10079845123482238,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.13342479851262887,0.1838331112450256
+75,AEQ081,Hall,Folk,0.13914469024908124,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,0.12344939239672122,0.1838331112450256
+76,AEQ082,Hall,Folk,0.09100461686562648,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.12439792391506384,0.13914469024908124
+77,AEQ083,Hall,Folk,0.1838331112450256,Continuously,Yes and I moved more than usual,Yes and they moved more than usual,0.1199715707419518,0.13914469024908124
+78,AEQ084,Hall,Folk,,Rarely,Yes and I moved less than usual,Yes and they moved more than usual,0.08207764812280392,0.09926007522186635
+79,AEQ085,Hall,Folk,0.42675763394860394,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+80,AEQ086,Hall,Folk,0.08685236237852478,Continuously,Yes and I moved less than usual,Yes and they moved a normal amount,0.15718686279238475,0.17673487936788548
+81,AEQ087,Hall,Folk,0.06697091609810853,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.09313289042455375,0.11209624780527683
+82,AEQ088,Hall,Folk,0.08157400445791471,Rarely,Yes and I moved a normal amount,Not aware of others movement,0.1227626705604221,0.1227626705604221
+83,AEQ089,Hall,Folk,0.11753189627576059,Intermittently,Yes and I moved a normal amount,Yes and they moved a normal amount,0.09985391962596141,0.10079845123482238
+84,AER090,Hall,Folk,0.11398778397288807,Intermittently,Yes and I moved a normal amount,Not aware of others movement,0.09212119357382358,0.11209624780527683
+85,BDQ092,Virtual,Folk,0.10851802609945545,,,,,
+86,BDQ093,Virtual,Folk,,,,,,
+87,BEQ095,Virtual,Folk,0.10214238194385068,Continuously,Yes and I moved a normal amount,Not aware of others movement,,
+88,BEQ096,Virtual,Folk,0.09005228271408554,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+89,BEQ097,Virtual,Folk,0.1267586089695469,Intermittently,Yes and I moved a normal amount,Yes and they moved less than usual,,
+90,BEQ098,Virtual,Folk,0.14179401333099192,Continuously,Yes and I moved a normal amount,Not aware of others movement,,
+91,BEQ099,Virtual,Folk,0.09144377780281354,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+92,BEQ100,Virtual,Folk,0.11476747445665898,Rarely,Not aware of movement,Not aware of others movement,,
+93,BEQ101,Virtual,Folk,0.12646522751748687,Intermittently,Yes and I moved a normal amount,Yes and they moved more than usual,,
+94,BEQ102,Virtual,Folk,0.11476421966795801,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+95,BEQ103,Virtual,Folk,0.2562458029073968,Rarely,Yes and I moved more than usual,Not aware of others movement,,
+96,BEQ104,Virtual,Folk,0.20960422985238034,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+97,BEQ105,Virtual,Folk,0.08087157554474379,Rarely,Yes and I moved a normal amount,Not aware of others movement,,
+98,BEQ106,Virtual,Folk,0.4856712548886049,Intermittently,Yes and I moved more than usual,Yes and they moved more than usual,,
+99,BEQ107,Virtual,Folk,0.10493478686512003,Intermittently,Yes and I moved more than usual,Not aware of others movement,,
+100,BEQ108,Virtual,Folk,0.15143402434083855,Rarely,Yes and I moved more than usual,Yes and they moved a normal amount,,
+101,BEQ109,Virtual,Folk,0.12385663760303506,Rarely,Yes and I moved a normal amount,,,
+102,BEQ110,Virtual,Folk,0.13418402637381274,Continuously,Yes and I moved more than usual,,,
+103,BEQ111,Virtual,Folk,0.2323671908509101,,,,,
+104,BEQ112,Virtual,Folk,0.15582775841725635,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+105,BEQ113,Virtual,Folk,0.13066609525922027,Intermittently,Yes and I moved a normal amount,Not aware of others movement,,
+106,BEQ114,Virtual,Folk,,,,,,
+107,BEQ115,Virtual,Folk,0.27016270635757345,,,,,
+108,BEQ116,Virtual,Folk,1.0295485820269727,,,,,
+109,BEQ117,Virtual,Folk,,,,,,
+110,BEQ118,Virtual,Folk,,,,,,
+111,BEQ119,Virtual,Folk,,,,,,
