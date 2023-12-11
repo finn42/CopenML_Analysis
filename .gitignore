@@ -131,3 +131,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+Stillness_Plots/Fig6_QoM_More_stilledpoints.pdf
